@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCZtpFYJAN0ArQy6vRcDRulKmymcp8d2w5J4++rAnnT+jmKXnp5EFZNBXAojSMCiSBITq3oeqLaqPrGBtrN8BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LARRYSMILEY\\source\\repos\\s2i-dotnetcore-ex-sizinggtool\\s2i-dotnetcore-ex-sizinggtool\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LARRYSMILEY\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.2\\microsoft.typescript.msbuild.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
